@@ -20,17 +20,13 @@ const Chart = ({ expenses }) => {
           '#FF6384',
           '#36A2EB',
           '#FFCE56',
-          '#FF6384',
-          '#36A2EB',
-          '#FFCE56'
+          '#34D399',
         ],
         hoverBackgroundColor: [
           '#FF6384',
           '#36A2EB',
           '#FFCE56',
-          '#FF6384',
-          '#36A2EB',
-          '#FFCE56'
+          '#34D399',
         ]
       }
     ]
